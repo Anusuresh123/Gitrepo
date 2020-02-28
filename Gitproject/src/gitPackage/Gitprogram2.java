@@ -8,11 +8,11 @@ public class Gitprogram2 {
 		
 		
 		
-		int i= 4, j=2, sum;
-		sum=i+j;
+		int i= 4, j=2, Total;
+		Total=i+j;
 		
 		
-		System.out.println("the value is: " +sum);
+		System.out.println("the value is: " +Total);
 		
 		
 	}
