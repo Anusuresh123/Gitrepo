@@ -7,6 +7,8 @@ public class SamplecommitProgram {
 		
 		int i=1, k=1;
 		int c=i+k;
+				System.out.println(i);
+
 		System.out.println(c);
 
 
